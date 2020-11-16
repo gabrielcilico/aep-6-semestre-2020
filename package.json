@@ -1,0 +1,14 @@
+{
+  "name": "aep",
+  "version": "1.0.0",
+  "description": "AEP do sexto semestre de Engenharia de Software",
+  "main": "index.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
